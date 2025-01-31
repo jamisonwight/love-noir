@@ -90,7 +90,7 @@
 					</article>
 
 					<article class="copyright">
-						<p class="source-org">&copy; <?php echo date('Y'); ?> Love Noir Vineyards, Livermore, CA | <a href="../terms-and-conditions.html" class="fancybox fancybox.iframe">Terms & Conditions</a></p>
+						<p class="source-org">&copy; <?php echo date('Y'); ?> Love Noir Vineyards, Ripon, CA | <a href="../terms-and-conditions.html" class="fancybox fancybox.iframe">Terms & Conditions</a></p>
 					</article>
 					
 				</article>
