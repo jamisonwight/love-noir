@@ -152,7 +152,7 @@
 					
 								</a></li>
 							</ul>								
-							<p class="source-org copyright">&copy; <?php echo date('Y'); ?> Love Noir Vineyards, Livermore, CA | <a href="https://thewinegroup.com/supply-chain-transparency/" target="_blank" title="Supply Chain Transparency - opens in a new tab">Supply Chain Transparency</a> | <a href="<?php bloginfo('url');?>/terms-of-service/">Terms of Service</a> | <a href="<?php bloginfo('url');?>/privacy-policy/">Privacy Policy</a> | <a href="<?php bloginfo('url');?>/privacy-policy/#ccpa">California Privacy Notice</a></p>
+							<p class="source-org copyright">&copy; <?php echo date('Y'); ?> Love Noir Vineyards, Ripon, CA | <a href="https://thewinegroup.com/supply-chain-transparency/" target="_blank" title="Supply Chain Transparency - opens in a new tab">Supply Chain Transparency</a> | <a href="<?php bloginfo('url');?>/terms-of-service/">Terms of Service</a> | <a href="<?php bloginfo('url');?>/privacy-policy/">Privacy Policy</a> | <a href="<?php bloginfo('url');?>/privacy-policy/#ccpa">California Privacy Notice</a></p>
 						</div>
 					</div> <!-- end #inner-footer -->
 				</footer> <!-- end .footer -->
