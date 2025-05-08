@@ -24,7 +24,7 @@ $lg_copyWrap_classes = 'legal-copy-wrap content inner-conent row content-contain
 // Love Noir Wine brand-specific styles
 $font_family = '"minion-pro", serif';
 $font_family_headings = '"pt-sans-pro", sans-serif';
-$font_size = '18px';
+$font_size = '24px';
 $letter_spacing = '.82px';
 $line_height = '1.6';
 $font_weight = '400';
