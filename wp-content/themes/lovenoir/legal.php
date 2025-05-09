@@ -575,7 +575,7 @@ span[data-name="req-type"] {
             <p><u>Information Sold or Shared</u>. We have not sold or shared, as defined by the CPPA, any personal information to third parties for a business or commercial purpose since January 1, 2022. </p>
             <p>You also have a right to know if we have sold or disclosed your personal information for a business purpose since January 1, 2022 and, if so, the categories of personal information sold or disclosed and the categories of third parties to whom the personal information was sold or disclosed, along with the business or commercial purpose for which the personal information was sold or disclosed. </p>
             <p>To make a request for any of the information set forth above (a “Request to Know”), please submit a request pursuant to the instructions below. You may only make a Request to Know twice within a 12-month period. We will acknowledge your Request to Know within 10 days and will attempt to respond substantively within 45 – 90 days. </p>
-            <p>You or your designated authorized agent can make a Request to Know the personal information we have about you by filling out our online form available <a href="/ccpa-request">here</a> or emailing us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
+            <p>You or your designated authorized agent can make a Request to Know the personal information we have about you by filling out our online form available <a href="http://www.thewinegroup.com/ccpa-request">here</a> or emailing us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
 
             <h3><strong>Right To Know About Sensitive PII Collected</strong></h3>
             <p>We collect and use your sensitive personal information as described in Annex 1 below.</p>
@@ -585,7 +585,7 @@ span[data-name="req-type"] {
             <p>You or your designated authorized agent have the right to request deletion of your personal information collected or maintained by us (“Request to Delete”), subject to certain exceptions permitted by law. </p>
             <p>To make a Request to Delete, please submit a request pursuant to the instructions below. We will acknowledge your Request to Know within 10 days and will attempt to respond substantively within 45 – 90 days. </p>
             <p>As permitted by law, if the information requested to be deleted is necessary for us to maintain, we will not be able to comply with your request. We will notify you if this is the case. </p>
-            <p>You or your designated authorized agent can make a Request to Delete the personal information we have about you by filling out our online form available <a href="/ccpa-request/">here</a> or emailing us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
+            <p>You or your designated authorized agent can make a Request to Delete the personal information we have about you by filling out our online form available <a href="http://www.thewinegroup.com/ccpa-request">here</a> or emailing us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
             <p>We will retain correspondence, documents and information related to any Request to Know, Request to Delete, or Request to Opt Out for 24 months as required by law. </p>
 
             <h3><strong>Third-Party Policies</strong></h3>
@@ -605,7 +605,7 @@ span[data-name="req-type"] {
             <h3><strong>Right To Correct</strong></h3>
             <p>You have the right to request that we correct any inaccurate information about you. To make a request to correct inaccurate information about you (a “Request to Correct”), please submit a request pursuant to the instructions below. We will acknowledge your request within 10 days and attempt to respond substantively within 45 – 90 days. </p>
             <p>We will review all information provided by you to determine whether the information in our records is inaccurate. We reserve the right to delete the information instead of correcting if such deletion does not impact you or your consent to the deletion. We will inform you of our decision to deny or grant your request. </p>
-            <p>You or your designated authorized agent can make a Request to Correct the personal information we have about you by filling out our online form available <a href="/ccpa-request">here</a> or emailing us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
+            <p>You or your designated authorized agent can make a Request to Correct the personal information we have about you by filling out our online form available <a href="http://www.thewinegroup.com/ccpa-request">here</a> or emailing us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
             <p>We will retain correspondence, documents, and information related to any Request to Correct for 24 months as required by law. </p>
             <p><strong>Right To Access Information About Automated Decision Making And The Right To Opt-Out Of Automated Decision Making</strong> </p>
             <p>We do not use automated decision making processes.</p>
@@ -622,7 +622,7 @@ span[data-name="req-type"] {
             <p>Consumers who have a visual disability may be able to use a screen reader or other text-to-speech or text-to-Braille tool to review the contents of this Notice. </p>
 
             <h3><strong>How To Submit A Request.</strong></h3>
-            <p>To submit a request, <a href="/ccpa-request">click here</a> or email us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
+            <p>To submit a request, <a href="http://www.thewinegroup.com/ccpa-request">click here</a> or email us at <a href="mailto:privacy@thewinegroup.com">privacy@thewinegroup.com</a>. </p>
 
             <h3><strong>Verifying Requests</strong></h3>
             <p>All requests must provide sufficient information to allow us to verify that you are the person about whom the personal information was collected, sold or disclosed and must contain sufficient detail to allow us to properly understand, evaluate and respond to your request. You may be asked to provide additional proof of identification so that we can verify your identity and validate the request. If we cannot verify your identity, we may decline to honor your request. </p>
