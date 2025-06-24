@@ -317,7 +317,7 @@ span[data-name="req-type"] {
             <h3><strong>Contacting Us</strong></h3>
             <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacypolicy@thewinegroup.com" target="_blank" rel="noopener">privacypolicy@thewinegroup.com</a> </p>
 
-            <div id="ccpa" style="position: relative; top: -50px;"></div>
+            <div id="ccpa" style="position: relative; top: -75px;"></div>
             <h3><strong>California Consumer Privacy Act (CCPA) Privacy Notice</strong></h3>
             <small>Last Updated: <?php echo $updated_date; ?></small> 
             <p>The Wine Group has prepared this California Consumer Privacy Act (“<strong>CCPA</strong>”) Privacy Notice (the “<strong>Notice</strong>”) to inform California residents of the Personally Identifiable Information (“PII”) that we collect and how we use and disclose that information, and the privacy rights California residents may have relating to their PII and how those rights can be exercised. </p>
