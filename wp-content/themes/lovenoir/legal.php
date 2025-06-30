@@ -315,7 +315,7 @@ span[data-name="req-type"] {
             <p>The Services are controlled and operated by us from California, United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of California, United States. If you are a resident of any country other than the United States, we may transfer Personal Information that we collect about you outside of your country, including the United States, for the purposes set out in this Privacy Policy, and including for processing by third-party service providers in connection with those purposes. Our third-party service providers may perform processing activities outside of your country of residence. </p>
 
             <h3><strong>Contacting Us</strong></h3>
-            <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacypolicy@thewinegroup.com" target="_blank" rel="noopener">privacypolicy@thewinegroup.com</a> </p>
+            <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@thewinegroup.com" target="_blank" rel="noopener">privacy@thewinegroup.com</a> </p>
 
             <div id="ccpa" style="position: relative; top: -75px;"></div>
             <h3><strong>California Consumer Privacy Act (CCPA) Privacy Notice</strong></h3>
