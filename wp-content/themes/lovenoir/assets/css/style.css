@@ -128,7 +128,7 @@ NAVIGATION STYLES
     margin-left: 20px; }
 
 .terms_condition {padding: 40px;}
-.terms_condition ul, .terms_condition ol {font-family: "minion-pro", serif;font-size: 1.313em;color: #fceee3;}
+.terms_condition ul, .terms_condition ol, .terms_condition td, .terms_condition li, .terms_condition td {font-family: "minion-pro", serif;font-size: 1.313em;color: #fceee3;}
 
 /*********************
 POSTS & CONTENT STYLES
