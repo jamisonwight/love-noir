@@ -797,7 +797,7 @@ span[data-name="req-type"] {
 
             <p>WARNING: Many food and beverage cans have linings containing bisphenol A (BPA), a chemical known to the State of California to cause harm to the female reproductive system. Jar lids and bottle caps may also contain BPA. You can be exposed to BPA when you consume foods or beverages packaged in these containers. For more information, go to: <a href="https://www.P65Warnings.ca.gov/BPA" target="_blank" rel="noopener">www.P65Warnings.ca.gov/BPA</a>. For a list of products go to: <a href="https://www.prop65bpa.org" target="_blank" rel="noopener">www.prop65bpa.org</a>.</p>
 
-            <p>Site © 1997 – 2025 The Wine Group LLC unless otherwise noted. All rights reserved.</p>
+            <p>Site © 1997 – 2026 The Wine Group LLC unless otherwise noted. All rights reserved.</p>
 
             <p><small>Last Updated: <?php echo $updated_date; ?></small></p>
 
